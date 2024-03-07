@@ -11,7 +11,7 @@ Desarrollo de una página web de un encriptador de texto. Posee la opción *encr
 Mediante la ejecución de este reto pude poner en práctica y mejorar mis habilidades de desarrollo Front-end. 
 
 <p align="center" >
-     <img width="300" heigth="200" src="https://github.com/bety2022/Encriptador/blob/main/insignia_reto.png">
+     <img width="400" heigth="300" src="https://github.com/bety2022/Encriptador/blob/main/insignia_reto.png">
 </p>
 
 
@@ -24,7 +24,7 @@ En la pagina veras dos cuadros, en el primero escribes la palabra que quieres en
 Luego puedes copiar esa palabra encriptada y la pegas en el cuadro inicial, para desencriptarla con el boton respectivo.
 
 <p align="center" >
-     <img width="300" heigth="200" src="https://user-images.githubusercontent.com/91544872/157673573-5e781ce9-601c-4ea3-9db1-b60bebf717aa.png">
+     <img width="400" heigth="300" src="https://user-images.githubusercontent.com/91544872/157673573-5e781ce9-601c-4ea3-9db1-b60bebf717aa.png">
 </p>
 
 <br />

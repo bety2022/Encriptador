@@ -46,10 +46,11 @@ Mediante la ejecución de este reto pude poner en práctica y mejorar mis habili
   - HTML
   - JavaScript
   - Git || GitHub || GitHub Pages
+  - Figma
 
 <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=css,html,js,git,github" />
+      <img src="https://skillicons.dev/icons?i=css,html,js,git,github,figma" />
     </a>
 </div>
 <br />

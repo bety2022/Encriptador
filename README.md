@@ -1,6 +1,5 @@
 <h1 align="center"> RETO ENCRIPTADOR PROGRAMA ONE </h1>
 
-# Reto-encriptador-programaONE
 
 # Challenge ONE | Lógica de Programación 
 

@@ -1,4 +1,4 @@
-<h1 align="center"> RETO ENCRIPTADOR PROGRAMA ONE </h1>
+<h1 align="center"> RETO ENCRIPTADOR PROGRAMA ONE - ALURA </h1>
 
 
 # Challenge ONE | Lógica de Programación 

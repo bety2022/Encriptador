@@ -26,3 +26,35 @@ Luego puedes copiar esa palabra encriptada y la pegas en el cuadro inicial, para
 <p align="center" >
      <img width="300" heigth="200" src="https://user-images.githubusercontent.com/91544872/157673573-5e781ce9-601c-4ea3-9db1-b60bebf717aa.png">
 </p>
+
+<br />
+  ❤️ ESTADO: Finalizado
+<br />
+
+## 🔎 Deploy
+<div align="center">
+  <h3>
+    <a href="https://bety2022.github.io/Encriptador/" >
+      🔗 Visitar El Encriptador de Texto
+    </a>
+</div>
+<br />
+
+## 🛠️ Herramientas implementadas 
+  - CSS
+  - HTML
+  - JavaScript
+  - Git || GitHub || GitHub Pages
+
+<div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=css,html,js,git,github" />
+    </a>
+</div>
+<br />
+
+<br />
+
+## 📧 Contacto
+¿Tienes un proyecto en mente? Conectémonos y hagamos que las cosas sucedan! Puedes escribirme a carolinalopezdatascientist@gmail.com o seguirme en [LinkedIn](https://www.linkedin.com/in/carolina-lopez-430208106/).
+<br /><br />

@@ -1,6 +1,7 @@
-# Challenge ONE | Lógica de Programación - Reto-encriptador-programaONE
+# Challenge ONE | Lógica de Programación 
+# Reto-encriptador-programaONE
 
-## Desarrollo del reto: "Encriptador de texto" 👩‍💻 💻 🥇 #challengeonecodificador6
+🥇 ## Desarrollo del reto: "Encriptador de texto" 👩‍💻 💻  #challengeonecodificador6
 
 Primer reto del programa **Oracle ONE**
 Desarrollo de una página web de un encriptador de texto. Posee la opción *encriptar*, *desencriptar* y *copiar*

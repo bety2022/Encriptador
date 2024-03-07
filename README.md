@@ -14,8 +14,6 @@ Mediante la ejecución de este reto pude poner en práctica y mejorar mis habili
      <img width="300" heigth="200" src="https://github.com/bety2022/Encriptador/blob/main/insignia_reto.png">
 </p>
 
-<img src="insignia_reto.png" alt="" width="500px" />
-
 
 <p1 align="center" >
      <img width="300" heigth="200" src="https://user-images.githubusercontent.com/91544872/157673573-5e781ce9-601c-4ea3-9db1-b60bebf717aa.png">

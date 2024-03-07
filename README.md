@@ -10,7 +10,7 @@ Primer reto del programa **Oracle ONE**
 Desarrollo de una página web de un encriptador de texto. Posee la opción *encriptar*, *desencriptar* y *copiar*
 Mediante la ejecución de este reto pude poner en práctica y mejorar mis habilidades de desarrollo Front-end. 
 
-![Imagen de la insgnia por realizar el reto](https://github.com/bety2022/Encriptador/blob/main/insignia_reto.png).
+<img src="insignia_reto.png" alt="" width="1000px" />
 
 
 <p align="center" >
